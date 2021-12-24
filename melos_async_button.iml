@@ -4,6 +4,21 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_hook/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/async_button_core/.dart_tool" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
